@@ -5,6 +5,8 @@ package br.com.oca.module1;
  * 
  * @see http://www.c4learn.com/java/java-variable-scope/
  * @see http://stackoverflow.com/questions/215497/in-java-whats-the-difference-between-public-default-protected-and-private
+ * 
+ * @version 1.1 Define the scope of variables (Ok) 
  *
  * Theory:
  * -------------------------------------------------------------------------

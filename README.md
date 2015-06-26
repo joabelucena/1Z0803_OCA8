@@ -9,7 +9,7 @@ Here are the topics that will be studied in this 'course'
 (OK) 1.1 Define the scope of variables 
 (OK) 1.2 Define the structure of a Java class
 (OK) 1.3 Create executable Java applications with a main method; run a Java program from the command line; including console output.
-(PE) 1.4 Import other Java packages to make them accessible in your code
+(OK) 1.4 Import other Java packages to make them accessible in your code
 (  ) 1.5 Compare and contrast the features and components of Java such as: platform independence, object orientation, encapsulation, etc.
 
 2 Working With Java Data Types
@@ -17,7 +17,7 @@ Here are the topics that will be studied in this 'course'
 (  ) 2.1 Declare and initialize variables (including casting of primitive data types)
 (  ) 2.2 Differentiate between object reference variables and primitive variables
 (  ) 2.3 Know how to read or write to object fields
-(  ) 2.4 Explain an Object's Lifecycle (creation, "dereference by reassignment" and garbage collection)
+(OK) 2.4 Explain an Object's Lifecycle (creation, "dereference by reassignment" and garbage collection)
 (  ) 2.5 Develop code that uses wrapper classes such as Boolean, Double, and Integer.  
  
 3 Using Operators and Decision Constructs
@@ -69,6 +69,6 @@ Here are the topics that will be studied in this 'course'
  
 (  ) 9.1 Manipulate data using the StringBuilder class and its methods
 (  ) 9.2 Creating and manipulating Strings
-(  ) 9.3 Create and manipulate calendar data using classes from java.time.LocalDateTime,  java.time.LocalDate, java.time.LocalTime, java.time.format.DateTimeFormatter, java.time.Period 
+(  ) 9.3 Create and manipulate calendar data using classes from java.time.LocalDateTime,  java.time.LocalDate, java.time.LocalTime, java.time.format.DateTimeFormatter, java.time.Period
 (  ) 9.4 Declare and use an ArrayList of a given type 
 (  ) 9.5 Write a simple Lambda expression that consumes a Lambda Predicate expression
